@@ -1,4 +1,4 @@
-# user-stories <sup>[(edit)](https://github.com/peermusic/user-stories/edit/master/README.md)</sup>
+# user-stories
 
 - [Kanban Board](https://huboard.com/peermusic/user-stories/)
 - [How to use this repo](https://github.com/peermusic/user-stories/blob/master/CONTRIBUTING.md)
@@ -7,3 +7,4 @@
 
     Kleiner Musik Player, der mir meinen eigenen Musikbestand darstellt und abspielt.
 
+ <sub>[(edit)](https://github.com/peermusic/user-stories/edit/master/README.md)</sub>
