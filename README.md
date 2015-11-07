@@ -2,6 +2,9 @@
 
 - [Kanban Board](https://huboard.com/peermusic/user-stories/)
 - [How to use this repo](https://github.com/peermusic/user-stories/blob/master/CONTRIBUTING.md)
+- **Repositories**
+    - [Planning](https://github.com/peermusic/planning)
+    - [Research](https://github.com/peermusic/research)
 
 ## Sprint, 1 von 4, bis 25.11.
 
