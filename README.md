@@ -1,7 +1,7 @@
 # user-stories
 
-- **[Kanban Board](https://huboard.com/peermusic/user-stories/)**
-- **[Activity Board](https://github.com/orgs/peermusic/dashboard)**
+- **[User-stories Kanban Board](https://huboard.com/peermusic/user-stories/)**
+- **[General Activity Board](https://github.com/orgs/peermusic/dashboard)**
 - [How to use this repo](https://github.com/peermusic/user-stories/blob/master/CONTRIBUTING.md)
 - **Repositories**
     - [Planning](https://github.com/peermusic/planning)
