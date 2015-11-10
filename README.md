@@ -5,7 +5,8 @@
 - [How to use this repo](https://github.com/peermusic/user-stories/blob/master/CONTRIBUTING.md)
 - **Repositories**
     - [Planning](https://github.com/peermusic/planning)
-    - [Research](https://github.com/peermusic/research)
+    - [Research](https://github.com/peermusic/research)  
+      Collection of results from research user-stories.
 
 ## Sprint, 1 von 4, bis 25.11.
 
