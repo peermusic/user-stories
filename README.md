@@ -7,7 +7,9 @@
     - [Planning](https://github.com/peermusic/planning)
     - [Research](https://github.com/peermusic/research) Collection of results from research user-stories.
 
-## Sprint, 1 von 4, bis 25.11.
+## Sprint 1 of 4, until 25.11.
+
+**Next sprint user stories will be written in english.**
 
     Kleiner Musik Player, der mir meinen eigenen Musikbestand darstellt und abspielt.
 
