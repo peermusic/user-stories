@@ -1,6 +1,5 @@
-# user-stories
+# user-stories - [kanban](https://huboard.com/peermusic/user-stories/)
 
-- **[User-stories Kanban Board](https://huboard.com/peermusic/user-stories/)**
 - **[General Activity Board](https://github.com/orgs/peermusic/dashboard)**
 - [Travis CI](https://travis-ci.org/peermusic)
 - [How to use this repo](https://github.com/peermusic/user-stories/blob/master/CONTRIBUTING.md)
